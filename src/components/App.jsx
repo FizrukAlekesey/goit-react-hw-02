@@ -2,7 +2,7 @@ import "./App.css";
 
 import Description from "./description/Description.jsx";
 import Options from "./options/Options.jsx";
-import Feedback from "./Feedback/Feedback.jsx";
+import Feedback from "./feedback/Feedback.jsx";
 import Notification from "./notification/Notification.jsx";
 import { useEffect, useState } from "react";
 
