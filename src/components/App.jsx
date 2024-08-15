@@ -1,6 +1,6 @@
 import "./App.css";
 
-import Description from "./description/Descriptiom.jsx";
+import Description from "./description/Description.jsx";
 import Options from "./options/Options.jsx";
 import Feedback from "./Feedback/Feedback.jsx";
 import Notification from "./notification/Notification.jsx";
