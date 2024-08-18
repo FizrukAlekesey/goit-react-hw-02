@@ -1,7 +1,7 @@
 
-import OptionsButton from "./OptionsButtom";
+import OptionsButton from "./OptionsButton";
 
-import css from "./OptionsButtom";
+import css from "./OptionsButton";
 
 export default function Options({ handler, reset, total }) {
   return (
